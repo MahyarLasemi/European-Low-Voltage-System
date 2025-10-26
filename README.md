@@ -1,5 +1,5 @@
 # **LV_Grid_Simulation**
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
+[![License](https://img.shields.io/badge/License-Apache_2.0-red.svg)](https://opensource.org/licenses/Apache-2.0)  
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/downloads/release/python-3110/)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](#contributors)  
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-black.svg?logo=github)](https://github.com/V2X-Hub/LV_Grid_Simulation)  
